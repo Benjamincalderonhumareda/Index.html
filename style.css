@@ -4,6 +4,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(imagen\ 2.jpg);
+
 }
 
 form {
@@ -62,13 +64,13 @@ font-size: 16px;
  color: #502006;
  border: 0px;
  border-radius: 16px;
- background-color: #ef6e05;
- box-shadow:0 0 20px rgba(228, 131, 12, 0.879);
+ background-color: #dd6c10e7;
+ box-shadow:0 0 20px rgba(231, 138, 26, 0.879);
  cursor: pointer;
 
  }
  .btn:hover{
-    background-color: #df4d04;
+    background-color: #ea621f;
  }
 @media(max-width:991px) {
 
